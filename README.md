@@ -19,16 +19,20 @@ Project consists of a using TERRAFORM in creating AWS Virtual Private Cloud (VPC
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Select the disk:  <br/>
+Terraform script screenshot: <br/>
+<img src="https://i.imgur.com/5Ttb5ss.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Techwithamara VPC created:  <br/>
 <img src="https://i.imgur.com/20DrNjK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Resource map - VPC with (3) Public subnets & Private subnets, Route, Route tables for the public & private subnets created:  <br/>
+<img src="https://imgur.com/fmeu1F6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Subnets - Private and Public created: <br/>
+<img src="https://imgur.com/HrCAHjN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
