@@ -20,7 +20,7 @@ Project consists of a using TERRAFORM in creating AWS Virtual Private Cloud (VPC
 
 <p align="center">
 Select the disk:  <br/>
-<img src="https://imgur.com/20DrNjK" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/20DrNjK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
