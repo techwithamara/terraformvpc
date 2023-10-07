@@ -1,4 +1,4 @@
-<h1>Creating AWS VPC and cloud resources using Terraform</h1>
+<h1>Creating VPC and cloud resources using Terraform on AWS</h1>
 
 
 <h2>Description</h2>
@@ -31,24 +31,30 @@ Resource map - VPC with (3) Public subnets & Private subnets, Route, Route table
 <img src="https://imgur.com/fmeu1F6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Subnets - Private and Public created: <br/>
+Subnets - Private and Public subnets created: <br/>
 <img src="https://imgur.com/HrCAHjN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Route Tables for the Private and Public subnets with association:  <br/>
+<img src="https://i.imgur.com/JHq5m0T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+NAT Gateway created:  <br/>
+<img src="https://i.imgur.com/qQkgHQE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Internet Gateway created:  <br/>
+<img src="https://i.imgur.com/z6LpSk3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Elastic IP created:  <br/>
+<img src="https://i.imgur.com/MkemkD8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+20 AWS Cloud Resources destroyed using Terraform:  <br/>
+<img src="https://i.imgur.com/JpPoA3V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 
 <!--
