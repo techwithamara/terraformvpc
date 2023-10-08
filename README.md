@@ -13,7 +13,7 @@ Project consists of a using TERRAFORM in creating AWS Virtual Private Cloud (VPC
 
 <h2>Environment Used </h2>
 
-- <b>Visual Studio, Terraform</b>
+- <b>Visual Studio code, AWS CLI, Terraform</b>
 
 
 <h2>Program walk-through:</h2>
